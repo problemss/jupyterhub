@@ -6,7 +6,7 @@
 #
 # Option 1:
 #
-# FROM jupyterhub/jupyterhub:latest
+FROM jupyterhub/jupyterhub:latest
 #
 # And put your configuration file jupyterhub_config.py in /srv/jupyterhub/jupyterhub_config.py.
 #
